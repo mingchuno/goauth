@@ -2,7 +2,6 @@ package oauth
 
 import (
 	"bufio"
-	//"bytes"
 	"crypto/tls"
 	"fmt"
 	"io"
